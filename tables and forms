@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <table border="1">
+        <thead>STUDENT DETAILS</thead>
+        <tbody>
+            <tr>
+                <th>NAME</th>
+                <th>AGE</th>
+                <th>GENDER</th>
+                <th>CONTACT</th>
+            </tr>
+            <tr>
+                <td>Student2</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>  
+            <tr>
+                <td>Student3</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>
+            <tr>
+                <td>Student4</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>
+            <tr>
+                <td>Student5</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>
+            <tr>
+                <td>Student6</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>
+            <tr>
+                <td>Student7</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>
+            <tr>
+                <td>Student8</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>
+            <tr>
+                <td>Student8</td>
+                <td>20</td>
+                <td>Female</td>
+                <td>123456</td>
+
+            </tr>
+    </table>
+</body>
+</html>
+

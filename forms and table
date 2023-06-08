@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+    <h1>FORMS</h1>
+    <form>
+        <fieldset>
+          <legend>student details</legend>
+          <select name="salutation"></select><br>
+          <option>Ms</option>
+          <option>Mr</option>
+          <label>NAME</label><br>
+        <input type="name" name="studentname"><br>
+        <label>AGE</label>
+        <input type="number"><br>
+        <label>EMAIL</label>
+        <input type="email" required><br>
+        <label>Mother tongue </label><br>
+        <input type="radio" name="mother">
+        <label>TAMIL</label>
+        <input type="radio" name="mother">
+        <label>ENGLISH</label>
+        <lable>COMPUTER LANGUAGES</lable>
+        <input type="checkbox">
+        <label>HTML</label>
+        <input type="checkbox">
+        <label>JAVASCRIPT</label><br>
+        <label>ADDRESS</label>
+        <textarea name="details" rows="4" cols="20"></textarea><br>
+        <input  type="button" value="submit">
+          </fieldset>
+        </form>
+    </html>
